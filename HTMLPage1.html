@@ -1,0 +1,26 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+</head>
+<body>
+    Delegates vs. Interfaces
+    Delegates and interfaces are similar in that they enable the separation of specification and implementation. Multiple independent authors can produce implementations that are compatible with an interface specification. Similarly, a delegate specifies the signature of a method, and authors can write methods that are compatible with the delegate specification. When should you use interfaces, and when should you use delegates?
+    
+    Delegates are useful when:
+    A single method is being called.
+    A class may want to have multiple implementations of the method specification.
+    It is desirable to allow using a static method to implement the specification.
+    An event-like design pattern is desired (for more information, see the Events Tutorial).
+    The caller has no need to know or obtain the object that the method is defined on.
+    The provider of the implementation wants to "hand out" the implementation of the specification to only a few select components.
+    Easy composition is desired.
+    
+    Interfaces are useful when:
+    The specification defines a set of related methods that will be called.
+    A class typically implements the specification only once.
+    The caller of the interface wants to cast to or from the interface type to obtain other interfaces or classes.
+</body>
+</html>

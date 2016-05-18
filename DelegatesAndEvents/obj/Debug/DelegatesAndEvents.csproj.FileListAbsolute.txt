@@ -1,0 +1,6 @@
+C:\Users\nitesh.kumar\Desktop\Illustrations\DelegatesAndEvents\DelegatesAndEvents\bin\Debug\DelegatesAndEvents.exe.config
+C:\Users\nitesh.kumar\Desktop\Illustrations\DelegatesAndEvents\DelegatesAndEvents\bin\Debug\DelegatesAndEvents.exe
+C:\Users\nitesh.kumar\Desktop\Illustrations\DelegatesAndEvents\DelegatesAndEvents\bin\Debug\DelegatesAndEvents.pdb
+C:\Users\nitesh.kumar\Desktop\Illustrations\DelegatesAndEvents\DelegatesAndEvents\obj\Debug\DelegatesAndEvents.csprojResolveAssemblyReference.cache
+C:\Users\nitesh.kumar\Desktop\Illustrations\DelegatesAndEvents\DelegatesAndEvents\obj\Debug\DelegatesAndEvents.exe
+C:\Users\nitesh.kumar\Desktop\Illustrations\DelegatesAndEvents\DelegatesAndEvents\obj\Debug\DelegatesAndEvents.pdb
